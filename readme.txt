@@ -3,4 +3,4 @@ Git is free software.
 
 my name is liujiufu
 
-Git tracks changes.
+Git tracks changes of file.
