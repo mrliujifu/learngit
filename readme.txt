@@ -7,3 +7,5 @@ Git tracks changes of file.
 
 
 shis   is new   branch.
+
+creatin a new branch is AND simple.
