@@ -6,4 +6,13 @@ my name is liujiufu
 Git tracks changes of file.
 
 
+<<<<<<< HEAD
 shis   is new  fff branch.
+=======
+shis   is new   branch.
+
+creatin a new branch is AND simple.
+>>>>>>> featurel
+
+
+Creating a new branch is quick and simple.
