@@ -12,8 +12,12 @@ shis   is new   branch.
 
 creatin a new branch is AND simple.
 
+<<<<<<< HEAD
 222
 
 Creating a new branch is quick and simple.
+=======
+3333
+>>>>>>> dev
 
 333
